@@ -34,7 +34,7 @@ public class ItemDePedido {
 		NumberFormat moeda = NumberFormat.getCurrencyInstance();
 		String itemDePedidoTexto;
 		
-		itemDePedidoTexto = String.format("PRODUTO: " + produto.descricao);
+		itemDePedidoTexto = produto.toString();
 		itemDePedidoTexto += String.format("\nQUANTIDADE: %02d", quantidade);
 		itemDePedidoTexto += String.format("\nPREÇO UNITÁRIO: " + moeda.format(precoVenda));
 		return  itemDePedidoTexto;	
