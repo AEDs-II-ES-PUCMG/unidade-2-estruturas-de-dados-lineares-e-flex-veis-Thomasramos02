@@ -4,8 +4,9 @@ Oficinas e atividade pontuada realizada em AEDs II, tendo em vista estruturas de
 
 ## Aluno 
 
-* Nome completo do aluno 1
-Thomás Ramos Oliveira
-Thiago Costa Soares
+  
+* Thomás Ramos Oliveira
+
+* Thiago Costa Soares
 
 
